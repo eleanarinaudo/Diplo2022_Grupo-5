@@ -20,8 +20,8 @@
 
 # Materias
 - [Análisis y Visualización de Datos](https://github.com/eleanarinaudo/Diplo2022_Grupo-5/tree/main/Notebooks/An%C3%A1lisis%20y%20Visualizaci%C3%B3n)
-- Análisis Exploratorio y Curación de Datos
-- Introducción al Aprendizaje Automático
+- [Análisis Exploratorio y Curación de Datos](https://github.com/eleanarinaudo/Diplo2022_Grupo-5/tree/main/Notebooks/An%C3%A1lisis%20Exploratorio%20y%20Curaci%C3%B3n%20de%20Datos)
+- [Introducción al Aprendizaje Automático](https://github.com/eleanarinaudo/Diplo2022_Grupo-5/tree/main/Notebooks/Introducci%C3%B3n%20al%20Aprendizaje%20Autom%C3%A1tico)
 - Aprendizaje Supervisado
 - Aprendizaje No Supervisado
 
