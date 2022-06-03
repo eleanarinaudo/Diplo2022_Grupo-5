@@ -1,6 +1,6 @@
 <html>
   <h1 align="center";>
-    Análisis y Visualización de Datos
+    Análisis Exploratorio y Curación de Datos
   </h1>
 </html>
 
